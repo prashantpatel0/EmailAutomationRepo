@@ -10,4 +10,5 @@ Total Mails sent. <br>
 <h3>Homescreen</h3>
 
 
-![](images/EmailAutomation_.png)
+![MailAutomation_](https://user-images.githubusercontent.com/46090035/96672068-01646e00-1381-11eb-83e6-6c27e09a6776.png)
+
