@@ -1,4 +1,4 @@
-# EmailAutomationRepo
+# Email Automation System
 
 Email automation system Using Django. <br>
 Bulk Mails can be sent using this project. <br>
